@@ -1,6 +1,8 @@
 input: .
 output: .retype
 url: https://docs.louply.io/
+favicon: logo/louply_blue_logo.png
+logo: logo/louply_blue_logo.png
 branding:
   title: Louply.io
   label: Docs
