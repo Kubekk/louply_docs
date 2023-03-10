@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: https://docs.louply.io/
 branding:
-  title: Project Name
+  title: Louply.io
   label: Docs
 links:
 - text: Getting Started
