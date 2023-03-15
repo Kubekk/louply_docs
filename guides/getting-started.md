@@ -4,7 +4,7 @@ This is a paragraph.
 
 Both [internal](README.md) and [external](https://example.com) links work.
 
-![Your logo](louply_blue_logo.png.png)
+![Your logo](../logo/louply_blue_logo.png)
 
 Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
 
