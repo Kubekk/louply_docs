@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: A comprehensive guide to setting up and using Louply for streamlined internal communication and knowledge management.
+title: Roadmap
+description: What's on the Roadmap?
 ---
 
 # On the Roadmap 
