@@ -31,11 +31,10 @@ Louply learns from your company's documentation to provide accurate and relevant
 2. Navigate to the "Knowledge Sources" section.
 3. Upload documents (supported file extensions will be provided) or add URLs for web pages containing company information.
 4. Organize your sources into categories or folders for easier management.
-5. Set access permissions for each source, ensuring only authorized users can view sensitive information.
 
 ## Integrating Communication Tools
 
-Louply can integrate with various communication tools, such as Slack and Microsoft Teams. Below, we'll outline the process for integrating with these platforms.
+Louply AI Assistant works as an extension of your existing communication tools. Below, we'll outline the process for integrating with currently supported platforms.
 
 ### Integrating with Slack
 
@@ -46,23 +45,6 @@ To integrate Louply with Slack, follow these steps:
 3. Authorize Louply to access your Slack workspace.
 4. Choose the channels you'd like Louply to be available in or allow direct messages.
 
-### Integrating with Microsoft Teams
-
-To integrate Louply with Microsoft Teams, follow these steps:
-
-1. In the Customer Portal, navigate to the "Integrations" tab.
-2. Click the "Add to Microsoft Teams" button.
-3. Authorize Louply to access your Microsoft Teams account.
-4. Choose the channels you'd like Louply to be available in or allow direct messages.
-
-## Inviting Team Members and Assigning Roles
-
-To invite team members to use Louply and assign roles, follow these steps:
-
-1. In the Customer Portal, navigate to the "Team" tab.
-2. Click the "Invite Member" button and enter the team member's email address.
-3. Assign a role to the team member (e.g., Admin, Editor, Viewer).
-4. Send the invitation, and the team member will receive an email with instructions to join.
 
 ## Using Louply: Example Scenarios and Tips
 
@@ -84,6 +66,30 @@ To get the most out of Louply, remember to:
 - Use natural language when asking questions, as Louply is designed to understand everyday conversation.
 - Provide feedback on Louply's responses to help improve its performance and accuracy.
 
+
+
+!!!danger Want more?!
+We are in the process of shipping additional features you might want. Below sections outline some of them - please note those are not yet production ready so you will not see them just yet.
+!!!
+
+### Integrating with Microsoft Teams
+
+To integrate Louply with Microsoft Teams, follow these steps:
+
+1. In the Customer Portal, navigate to the "Integrations" tab.
+2. Click the "Add to Microsoft Teams" button.
+3. Authorize Louply to access your Microsoft Teams account.
+4. Choose the channels you'd like Louply to be available in or allow direct messages.
+
+## Inviting Team Members and Assigning Roles
+
+To invite team members to use Louply and assign roles, follow these steps:
+
+1. In the Customer Portal, navigate to the "Team" tab.
+2. Click the "Invite Member" button and enter the team member's email address.
+3. Assign a role to the team member (e.g., Admin, Editor, Viewer).
+4. Send the invitation, and the team member will receive an email with instructions to join.
+
 ## Customizing Louply for Your Organization
 
 Customization options are available to tailor Louply's responses and behavior to your organization's needs:
@@ -94,6 +100,7 @@ Customization options are available to tailor Louply's responses and behavior to
 4. Configure notifications and alerts for specific events or keywords.
 5. Adjust Louply's behavior and response style to match your company's tone and branding.
 
+
 ## Monitoring Usage and Performance
 
 Monitor Louply's usage and performance to ensure it effectively serves your organization:
@@ -102,4 +109,4 @@ Monitor Louply's usage and performance to ensure it effectively serves your orga
 2. Use these insights to identify areas for improvement, such as updating knowledge sources or enhancing customization options.
 3. Continuously monitor and refine Louply's performance to create a more efficient and collaborative work environment for your team.
 
-By following this comprehensive Getting Started guide, you'll be well on your way to harnessing Louply's full potential and enhancing your team's productivity. Remember to keep your knowledge sources up-to-date, explore customization options, and monitor Louply's performance to ensure the best possible experience for your organization.
+
