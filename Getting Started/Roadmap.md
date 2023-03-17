@@ -8,7 +8,7 @@ order: 90
 
 We are in the process of shipping additional features you might want. Below sections outline some of them - please note those are not yet production ready so you will not see them just yet.
 
-### Integrating with Microsoft Teams
+## Integrating with Microsoft Teams
 
 To integrate Louply with Microsoft Teams, follow these steps:
 
