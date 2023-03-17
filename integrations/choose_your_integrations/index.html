@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.732371465993">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.732375181496">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
 
     <!-- Primary Meta Tags -->
-    <title>Choose Your Integrations</title>
-    <meta name="title" content="Choose Your Integrations">
+    <title>Integration</title>
+    <meta name="title" content="Integration">
+    <meta name="description" content="Learn about Louply's integration options with various knowledge sources and platforms, making it easier for employees to access company information." />
 
     <!-- Canonical -->
     <link rel="canonical" href="https://docs.louply.io/integrations/choose_your_integrations/" />
@@ -18,21 +19,23 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://docs.louply.io/integrations/choose_your_integrations/">
-    <meta property="og:title" content="Choose Your Integrations">
+    <meta property="og:title" content="Integration">
+    <meta property="og:description" content="Learn about Louply's integration options with various knowledge sources and platforms, making it easier for employees to access company information.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://docs.louply.io/integrations/choose_your_integrations/">
-    <meta property="twitter:title" content="Choose Your Integrations">
+    <meta property="twitter:title" content="Integration">
+    <meta property="twitter:description" content="Learn about Louply's integration options with various knowledge sources and platforms, making it easier for employees to access company information.">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../logo/louply_blue_logo.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.732371465993" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.732375181496" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.732371465993" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.732375181496" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.732371465993" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.732375181496" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -168,12 +171,101 @@
                                 <div id="docs-sidebar-right-toggle"></div>
                 
                                 <!-- Page content  -->
-<doc-anchor-target id="choose-your-integrations" class="break-words">
+<doc-anchor-target id="integration" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#choose-your-integrations">#</doc-anchor-trigger>
-        <span>Choose Your Integrations</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#integration">#</doc-anchor-trigger>
+        <span>Integration</span>
     </h1>
 </doc-anchor-target>
+<p>Louply provides various integration options to ensure seamless access to your company&#x27;s knowledge sources. In version one of Louply, customers can use the Customer Portal to define sources from where the chatbot should fetch data. This guide will walk you through the different integration options and help you understand how to connect Louply to each source.</p>
+<doc-anchor-target id="table-of-contents">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#table-of-contents">#</doc-anchor-trigger>
+        <span>Table of Contents</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li><doc-anchor-trigger to="#public-www-urls">Public WWW URLs</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#file-uploads">File Uploads</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#password-protected-www-urls">Password-Protected WWW URLs</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#google-drive-integration">Google Drive Integration</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#notion-and-confluence">Notion and Confluence</doc-anchor-trigger></li>
+<li><doc-anchor-trigger to="#additional-integration-ideas">Additional Integration Ideas</doc-anchor-trigger></li>
+</ol>
+<doc-anchor-target id="public-www-urls">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#public-www-urls">#</doc-anchor-trigger>
+        <span>Public WWW URLs</span>
+    </h2>
+</doc-anchor-target>
+<p>Louply can fetch data from publicly accessible web pages. To integrate public WWW URLs, follow these steps:</p>
+<ol>
+<li>Log in to the Louply Customer Portal.</li>
+<li>Navigate to the &quot;Knowledge Sources&quot; section.</li>
+<li>Click the &quot;Add URL&quot; button and enter the URL of the public web page containing company information.</li>
+<li>Louply will automatically fetch data from the provided URL and make it accessible in the chatbot.</li>
+</ol>
+<doc-anchor-target id="file-uploads">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#file-uploads">#</doc-anchor-trigger>
+        <span>File Uploads</span>
+    </h2>
+</doc-anchor-target>
+<p>You can upload files in various formats to the Louply Customer Portal, and Louply will extract information from them. Supported file extensions include:</p>
+<ul>
+<li>PDF (.pdf)</li>
+<li>Text files (.txt)</li>
+<li>Microsoft Word documents (.doc, .docx)</li>
+<li>Microsoft Excel spreadsheets (.xls, .xlsx)</li>
+<li>Markdown files (.md)</li>
+</ul>
+<p>To upload files, follow these steps:</p>
+<ol>
+<li>Log in to the Louply Customer Portal.</li>
+<li>Navigate to the <strong>Knowledge Sources</strong> section.</li>
+</ol>
+<doc-anchor-target id="public-www-urls-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#public-www-urls-1">#</doc-anchor-trigger>
+        <span>Public WWW URLs</span>
+    </h3>
+</doc-anchor-target>
+<p>To integrate public WWW URLs, follow these steps:</p>
+<ol>
+<li>Click the <strong>Add URL</strong> button and enter the URL of the public web page containing company information.</li>
+<li>Louply will automatically fetch data from the provided URL and make it accessible in the chatbot.</li>
+</ol>
+<doc-anchor-target id="file-uploads-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#file-uploads-1">#</doc-anchor-trigger>
+        <span>File Uploads</span>
+    </h3>
+</doc-anchor-target>
+<p>Supported file extensions include:</p>
+<ul>
+<li>PDF (.pdf)</li>
+<li>Text files (.txt)</li>
+<li>Microsoft Word documents (.doc, .docx)</li>
+<li>Microsoft Excel spreadsheets (.xls, .xlsx)</li>
+<li>Markdown files (.md)</li>
+</ul>
+<p>To upload files, follow these steps:</p>
+<ol>
+<li>Click the <strong>Upload Files</strong> button and select the files you want to upload.</li>
+<li>Once the files are uploaded, Louply will process them and make the information accessible in the chatbot.</li>
+</ol>
+<doc-anchor-target id="password-protected-www-urls">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#password-protected-www-urls">#</doc-anchor-trigger>
+        <span>Password-Protected WWW URLs</span>
+    </h3>
+</doc-anchor-target>
+<p>To integrate password-protected WWW URLs, follow these steps:</p>
+<ol>
+<li>Click the <strong>Add URL</strong> button and enter the URL of the password-protected web page.</li>
+<li>Provide the necessary authentication credentials (username and password) in the fields provided.</li>
+<li>Louply will use these credentials to access the web page and fetch the data.</li>
+</ol>
 
                                 
                                 <!-- Required only on API pages -->
@@ -240,6 +332,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Choose Your Integrations", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "Integration", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
 </body>
 </html>
