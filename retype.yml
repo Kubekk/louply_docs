@@ -1,11 +1,11 @@
 input: .
 output: .retype
 url: https://docs.louply.io/
-favicon: logo/louply_blue_logo.jpg
+favicon: logo/louply_blue.png
 branding:
   title: Louply.io
   label: Docs
-  logo: logo/louply_blue_logo.jpg
+  logo: logo/louply_blue.png
 links:
 - text: Getting Started
   link: https://docs.louply.io/guides/getting-started/
