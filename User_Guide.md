@@ -14,11 +14,11 @@ Louply AI Assistant can search through all your linked sources, such as Notion, 
 
 **Example:**
 
-!!!primary Input
-User: Can you find me the project deadline from our Confluence documentation?
+!!!primary Your Input:
+Can you find me the project deadline from our Confluence documentation?
 !!!
 
-!!!success Answer
+!!!success Louply AI Assistant Response:
 Louply AI Assistant: The project deadline is on May 25th, 2023. 
 
 Read more: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
@@ -30,11 +30,11 @@ Our AI Assistant can also help you with general questions that are not directly 
 
 **Example:**
 
-!!!primary Input
-User: How can I optimize this SQL query for better performance? SELECT * FROM users WHERE age > 18;
+!!!primary Your Input:
+How can I optimize this SQL query for better performance? SELECT * FROM users WHERE age > 18;
 !!!
 
-!!!success Answer
+!!!success Louply AI Assistant Response:
 Louply AI Assistant: To optimize the SQL query, consider adding an index on the 'age' column and selecting only necessary columns instead of '*'.
 
 Read more: https://www.sqltutorial.org/sql-performance-tips/
@@ -46,11 +46,11 @@ Louply AI Assistant can assist you in creating various content types such as pro
 
 **Example:**
 
-!!!primary Input
-User: Can you help me write a brief privacy policy for our website?
+!!!primary Your Input:
+Can you help me write a brief privacy policy for our website?
 !!!
 
-!!!success Answer
+!!!success Louply AI Assistant Response:
 Louply AI Assistant: AI Assistant: Sure, here's a sample privacy policy outline for your website:
 1. Introduction
 2. Information Collection and Use
@@ -70,12 +70,12 @@ If you want the AI Assistant to search for information from a specific linked sy
 
 **Example:**
 
-!!!primary Input
-User: Find me the latest sales report from our Notion workspace.
+!!!primary Your Input:
+Find me the latest sales report from our Notion workspace.
 !!!
 
-!!!success Answer
-Louply AI Assistant: The latest sales report shows a 15% increase in revenue for Q1 2023 compared to Q4 2022. 
+!!!success Louply AI Assistant Response:
+The latest sales report shows a 15% increase in revenue for Q1 2023 compared to Q4 2022. 
 
 Read more: https://www.notion.so/yourcompany/Latest-Sales-Report-Q1-2023-abcdef123456
 !!!
