@@ -3,7 +3,7 @@ output: .retype
 url: https://docs.louply.io/
 favicon: logo/louply_blue.png
 branding:
-  title: Louply.io
+  title: AI Assistant
   label: Docs
   logo: logo/louply_blue.png
 links:
@@ -12,4 +12,4 @@ links:
 - text: FAQs
   link: https://docs.louply.io/faqs/
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Louply {{ year }}. All rights reserved."

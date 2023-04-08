@@ -13,7 +13,7 @@ This comprehensive guide will walk you through the process of setting up and usi
 
 To get started with Louply, visit the Louply Customer Portal and register for a new account. Fill out the required information, including your company name, email address, and a secure password. After submitting your registration, you'll receive a confirmation email. Click the link in the email to verify your account and complete the setup process.
 
-![Sign Up Screen](/logo/louply_register.png)
+![Sign Up Screen](/logo/louply_register_full.png)
 
 
 ## Defining Knowledge Sources
@@ -24,6 +24,8 @@ Louply learns from your company's documentation to provide accurate and relevant
 2. Navigate to the "Knowledge Sources" section.
 3. Upload documents (supported file extensions will be provided) or add URLs for web pages containing company information.
 4. Organize your sources into categories or folders for easier management.
+
+![Link Sources](/logo/louply_choose_sources.png)
 
 ## Integrating Communication Tools
 
