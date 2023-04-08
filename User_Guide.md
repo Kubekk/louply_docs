@@ -14,9 +14,18 @@ Louply AI Assistant can search through all your linked sources, such as Notion, 
 
 **Example:**
 
->[!badge variant="info" icon=":person:" text="Question"] Can you find me the project deadline from our Confluence documentation?
->
->[!badge variant="info" icon=":octopus:" iconAlign="right" text="Louply AI Assistant"] The project deadline is on May 25th, 2023. Source: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
+!!!primary Question
+User: Can you find me the project deadline from our Confluence documentation?
+!!!
+
+!!!success Answer
+Louply AI Assistant: The project deadline is on May 25th, 2023. Source: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
+!!!
+
+
+[!badge variant="info" icon="person" text="Question"]: Can you find me the project deadline from our Confluence documentation?
+
+[!badge variant="info" icon=":octopus:" text="Louply AI Assistant"]: The project deadline is on May 25th, 2023. Source: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
 
 
 ## Asking general questions unrelated to your work
