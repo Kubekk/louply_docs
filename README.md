@@ -4,7 +4,7 @@ description: A comprehensive guide to setting up and using Louply for streamline
 order: 1000
 ---
 
-!(/logo/louply_login.png)
+![](/logo/louply_login.png)
 
 # Getting Started with Louply
 
