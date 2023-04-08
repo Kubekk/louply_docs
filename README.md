@@ -4,19 +4,21 @@ description: A comprehensive guide to setting up and using Louply for streamline
 order: 1000
 ---
 
+!(/logo/louply_login.png)
+
 # Getting Started with Louply
 
 This comprehensive guide will walk you through the process of setting up and using Louply to streamline your company's internal communication and knowledge management. We'll cover everything from registration and defining knowledge sources to integrating with communication tools and exploring Louply's features.
 
 
-## Registration and Account Setup
+## Create an Account
 
 To get started with Louply, visit the Louply Customer Portal and register for a new account. Fill out the required information, including your company name, email address, and a secure password. After submitting your registration, you'll receive a confirmation email. Click the link in the email to verify your account and complete the setup process.
 
 ![Sign Up Screen](/logo/louply_register_full.png)
 
 
-## Defining Knowledge Sources
+## Define Your Knowledge Sources
 
 Louply learns from your company's documentation to provide accurate and relevant answers to questions. To define your knowledge sources, follow these steps:
 
@@ -27,7 +29,7 @@ Louply learns from your company's documentation to provide accurate and relevant
 
 ![Link Sources](/logo/louply_choose_sources.png)
 
-## Integrating Communication Tools
+## Install Louply on your Communication Tool
 
 Louply AI Assistant works as an extension of your existing communication tools. Below, we'll outline the process for integrating with currently supported platforms.
 

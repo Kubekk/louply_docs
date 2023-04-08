@@ -3,7 +3,7 @@ output: .retype
 url: https://docs.louply.io/
 favicon: logo/louply_blue.png
 branding:
-  title: AI Assistant
+  title: Assistant
   label: Docs
   logo: logo/louply_blue.png
 links:
