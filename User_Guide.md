@@ -14,11 +14,10 @@ Louply AI Assistant can search through all your linked sources, such as Notion, 
 
 **Example:**
 
->User: Can you find me the project deadline from our Confluence documentation?
+>[!badge variant="info" icon=":person:" text="Question"] Can you find me the project deadline from our Confluence documentation?
 >
->AI Assistant: The project deadline is on May 25th, 2023.
->
->Source: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
+>[!badge variant="info" icon=":octopus:" iconAlign="right" text="Louply AI Assistant"] The project deadline is on May 25th, 2023. Source: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
+
 
 ## Asking general questions unrelated to your work
 
@@ -28,9 +27,7 @@ Our AI Assistant can also help you with general questions that are not directly 
 
 >User: How can I optimize this SQL query for better performance? SELECT * FROM users WHERE age > 18;
 >
->AI Assistant: To optimize the SQL query, consider adding an index on the 'age' column and selecting only necessary columns instead of '*'.
->
->For more optimization tips, check this resource: https://www.sqltutorial.org/sql-performance-tips/
+>AI Assistant: To optimize the SQL query, consider adding an index on the 'age' column and selecting only necessary columns instead of '*'. For more optimization tips, check this resource: https://www.sqltutorial.org/sql-performance-tips/
 
 ## Assigning tasks to create content
 
