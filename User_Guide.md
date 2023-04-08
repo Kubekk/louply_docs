@@ -1,7 +1,7 @@
 ---
-title: User Guide
+title: How to use Louply
 description: A comprehensive guide to setting up and using Louply for streamlined internal communication and knowledge management.
-order: 90
+order: 999
 ---
 
 # Welcome to the Louply AI Assistant User Guide!

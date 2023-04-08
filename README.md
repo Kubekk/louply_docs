@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 description: A comprehensive guide to setting up and using Louply for streamlined internal communication and knowledge management.
-order: 100
+order: 1000
 ---
 
 # Getting Started with Louply
