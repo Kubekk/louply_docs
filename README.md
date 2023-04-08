@@ -13,6 +13,9 @@ This comprehensive guide will walk you through the process of setting up and usi
 
 To get started with Louply, visit the Louply Customer Portal and register for a new account. Fill out the required information, including your company name, email address, and a secure password. After submitting your registration, you'll receive a confirmation email. Click the link in the email to verify your account and complete the setup process.
 
+![Sign Up Screen](/logo/louply_register.png)
+
+
 ## Defining Knowledge Sources
 
 Louply learns from your company's documentation to provide accurate and relevant answers to questions. To define your knowledge sources, follow these steps:
