@@ -8,25 +8,25 @@ order: 999
 
 This guide will help you understand the various ways you can interact with our AI-driven AI Assistant to make the most out of your experience. From answering general work-related questions to providing insights on tasks, our AI Assistant is here to assist you. Let's explore some of the primary use cases and scenarios:
 
-## Asking work-related questions with linked sources
+## Knows everything about your business
 
-Louply AI Assistant can search through all your linked sources, such as Notion, Google Drive, or Confluence, to find answers related to your work.
+Louply AI Assistant can search through all your linked sources, such as Notion, Google Drive, Confluence and more to find answers related to your work.
 
 **Example:**
 
 !!!primary Your Input:
-Can you find me the project deadline from our Confluence documentation?
+Can you find me the Flying Cards project deadline?
 !!!
 
 !!!success Louply AI Assistant Response:
-Louply AI Assistant: The project deadline is on May 25th, 2023. 
+The project deadline is on May 25th, 2025. 
 
 Read more: https://yourcompany.atlassian.net/wiki/spaces/Project/pages/123456/Project+Deadlines
 !!!
 
-## Asking general questions unrelated to your work
+## Helps you with your daily tasks
 
-Our AI Assistant can also help you with general questions that are not directly related to your work, such as improving a specific SQL query. It will use its general knowledge to create an answer and may provide a relevant external source.
+Our AI Assistant can also help you with general questions that are not directly related to the company's resources, such as improving a specific SQL query. It will use its general knowledge to create an answer and may provide a relevant external source.
 
 **Example:**
 
@@ -35,12 +35,12 @@ How can I optimize this SQL query for better performance? SELECT * FROM users WH
 !!!
 
 !!!success Louply AI Assistant Response:
-Louply AI Assistant: To optimize the SQL query, consider adding an index on the 'age' column and selecting only necessary columns instead of '*'.
+To optimize the SQL query, consider adding an index on the 'age' column and selecting only necessary columns instead of '*'.
 
 Read more: https://www.sqltutorial.org/sql-performance-tips/
 !!!
 
-## Assigning tasks to create content
+## Accelerates your creation process
 
 Louply AI Assistant can assist you in creating various content types such as programs, descriptions, or policies.
 
@@ -51,7 +51,7 @@ Can you help me write a brief privacy policy for our website?
 !!!
 
 !!!success Louply AI Assistant Response:
-Louply AI Assistant: AI Assistant: Sure, here's a sample privacy policy outline for your website:
+Sure, here's a sample privacy policy outline for your website:
 1. Introduction
 2. Information Collection and Use
 3. Cookies and Tracking Technologies
@@ -64,7 +64,7 @@ Louply AI Assistant: AI Assistant: Sure, here's a sample privacy policy outline 
 Read more: https://www.privacypolicies.com/blog/privacy-policy-template/
 !!!
 
-## Specifying an internal system for information
+## Gives you the data you need
 
 If you want the AI Assistant to search for information from a specific linked system, simply specify the system in your question.
 
