@@ -1,3 +1,5 @@
+title: How to Get Slack Workspace ID
+
 ## How to Get Slack Workspace ID
 
 The Slack workspace ID is a unique identifier that allows Louply to recognize your Slack workspace. Here's a step-by-step guide on how to find your Slack workspace ID:
