@@ -1,4 +1,6 @@
+---
 title: How to Get Slack Workspace ID
+---
 
 ## How to Get Slack Workspace ID
 
