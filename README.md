@@ -13,9 +13,13 @@ This comprehensive guide will walk you through the process of setting up and usi
 
 ## Create an Account
 
-To get started with Louply, visit the Louply Customer Portal and register for a new account. Fill out the required information, including your company name, email address, and a secure password. After submitting your registration, you'll receive a confirmation email. Click the link in the email to verify your account and complete the setup process.
+To get started with Louply, visit the Louply Customer Portal and register for a new account. Fill out the required information, including your **company name**, **email address**, and a **secure password**. You can also provide your Slack **workspace name** and **workspace ID**, but this information is optional. If you don't have this information or don't want to provide it at this time, you can skip this step and provide it later. 
+
+``Note:`` If you're not sure how to find your Slack workspace ID, you can follow the steps outlined in this guide: [**How to Get Slack Team ID**](how-to/how_to_get_slack_workspace_id.md).
 
 ![Sign Up Screen](/logo/louply_register_full.png)
+
+After submitting your registration, you'll receive a confirmation email. Copy the verification code included in the email and enter it in the confirmation window on the customer portal to complete the account setup process.
 
 
 ## Define Your Knowledge Sources
